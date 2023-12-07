@@ -13,17 +13,17 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Experiencia**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- Metodología Engineering Design: Uso esta metodología para el desarrollo de proyectos.
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Redes de Fibra Óptica: Participé en el diseño de despliegue de redes de fibra óptica en zonas específicas de la provincia de Loja..
+- IoT y Comunicación Inalámbrica: Diseñé e implementé un sistema de comunicación para IoT haciendo uso de tecnologías inalámbricas de bajo costo.
+- Proyectos en UTPL TEC: Realicé pasantías en UTPL, desarrollando proyectos de domótica y sistemas de comunicación. También fui ayudante de cátedra en la asignatura de Tratamiento Digital de Señales.
+- Asistente Virtual con IA: Contribuí a la creación de un asistente virtual entrenado con inteligencia artificial, mejorando la eficiencia y la interactividad en entornos tecnológicos.
+- Instalación de Sistemas Domóticos: Desarrollé e implementé sistemas domóticos para la automatización de procesos en entornos residenciales, mejorando la comodidad y la eficiencia energética.
 
 <br><br>
 
