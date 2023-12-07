@@ -3,7 +3,7 @@
 <!--  -->
 
 </p>
-<h2 align="center"><b>Holadddddddddd, me llamo Juan José Pardo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center"><b>o. Mi fascinación por la evolución tecnológica se refleja especialmente en mi interés y destreza en la implementación de herramientas tecnológicas avanzadas, haciendo uso de la Inteligencia Artificial. Estoy comprometido en explorar y aprovechar las últimas tendencias en este campo para mejorar y optimizar los procesos, demostrando así mi firme convicción en el poder transformador de la tecnología y la inteligencia artificial.</b></h2>
 <!--  -->
 
 </p>
