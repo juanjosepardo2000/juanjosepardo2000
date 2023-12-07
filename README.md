@@ -19,7 +19,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Metodología Engineering Design: Uso esta metodología para el desarrollo de proyectos.
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
