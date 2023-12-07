@@ -3,7 +3,7 @@
 <!--  -->
 
 </p>
-<h2 align="center"><b>o. Mi fascinación por la evolución tecnológica se refleja especialmente en mi interés y destreza en la implementación de herramientas tecnológicas avanzadas, haciendo uso de la Inteligencia Artificial. Estoy comprometido en explorar y aprovechar las últimas tendencias en este campo para mejorar y optimizar los procesos, demostrando así mi firme convicción en el poder transformador de la tecnología y la inteligencia artificial.</b></h2>
+<h3 align="center"><b>Mi fascinación por la evolución tecnológica se refleja especialmente en mi interés y destreza en la implementación de herramientas tecnológicas avanzadas, haciendo uso de la Inteligencia Artificial. Estoy comprometido en explorar y aprovechar las últimas tendencias en este campo para mejorar y optimizar los procesos, demostrando así mi firme convicción en el poder transformador de la tecnología y la inteligencia artificial.</b></h3>
 <!--  -->
 
 </p>
