@@ -19,10 +19,15 @@
 
 <br>
 - YouLumiere, mi propio proyecto y emprendimiento, un laboratorio de adultos mayores enfocado en brindar los servicios de acompañamiento, moniotreo y control de la salud haciendo uso de internet de las cosas médicas e inteligencia artificial. Mediante la instalación de dispositivos de toma de signos vitales que se encuentran conectados a la nube un médico podra acceder a los datos de sus pacientes de manera remota y en tiempo real
-- Redes de Fibra Óptica: Participé en el diseño de despliegue de redes de fibra óptica en zonas específicas de la provincia de Loja..
+
+- Redes de Fibra Óptica: Participé en el diseño de despliegue de redes de fibra óptica en zonas específicas de la provincia de Loja
+  
 - IoT y Comunicación Inalámbrica: Diseñé e implementé un sistema de comunicación para IoT haciendo uso de tecnologías inalámbricas de bajo costo.
+  
 - Proyectos en UTPL TEC: Realicé pasantías en UTPL, desarrollando proyectos de domótica y sistemas de comunicación. También fui ayudante de cátedra en la asignatura de Tratamiento Digital de Señales.
+  
 - Asistente Virtual con IA: Contribuí a la creación de un asistente virtual entrenado con inteligencia artificial, mejorando la eficiencia y la interactividad en entornos tecnológicos.
+  
 - Instalación de Sistemas Domóticos: Desarrollé e implementé sistemas domóticos para la automatización de procesos en entornos residenciales, mejorando la comodidad y la eficiencia energética.
 
 <br><br>
